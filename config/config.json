@@ -7,17 +7,17 @@
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": null,
-    "database": "tech_blog_db_test",
-    "host": "127.0.0.1",
+    "username": "c6vuhgkluobxzvel",
+    "password": "cwdri5t4jmbjpoz3",
+    "database": "isfq601bchn7v4s5",
+    "host": "grp6m5lz95d9exiz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "tech_blog_db_production",
-    "host": "127.0.0.1",
+    "username": "c6vuhgkluobxzvel",
+    "password": "cwdri5t4jmbjpoz3",
+    "database": "isfq601bchn7v4s5",
+    "host": "grp6m5lz95d9exiz.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
